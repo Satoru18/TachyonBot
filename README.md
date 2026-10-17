@@ -1,6 +1,6 @@
 # TachyonBot
 
-Bot de Discord en Python para reproducir música y responder comandos básicos.
+Bot de Discord que puede reaccionar a algunos mensajes, le peudes pedir cosas, el bot interpretara a un personaje en especifico y podra poner musica en servidores, etc
 
 ## Requisitos
 
